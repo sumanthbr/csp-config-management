@@ -11,5 +11,5 @@ subjects:
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: ClusterRole
-  name: namespace-reader
+  name: node-reader
   apiGroup: rbac.authorization.k8s.io
